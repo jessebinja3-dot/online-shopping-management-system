@@ -72,6 +72,7 @@ The diagram also specifies multiplicities to indicate how many objects can parti
 
 ## 8. Author
 
-**Name:** Jesse Binja
+**Name:** Jesse Binja 
+**RollNumber:** 202512173
 **Project:** Online Shopping Management System
 **Assignment:** UML Class Diagram Modelling
