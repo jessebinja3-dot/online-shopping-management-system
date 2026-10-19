@@ -63,14 +63,12 @@ The diagram also specifies multiplicities to indicate how many objects can parti
 
 * `README.md` — project documentation.
 * `Online_Shopping_UML.pdf` — exported UML class diagram.
-* `Online_Shopping_Report.docx` — project report in editable format.
 * `Online_Shopping_Report.pdf` — project report in PDF format.
 
 ## 7. Tools Used
 
 * **diagrams.net (draw.io)** — for creating the UML class diagram.
 * **GitHub** — for version control and project submission.
-* **Microsoft Word** — for preparing the project report.
 
 ## 8. Author
 
